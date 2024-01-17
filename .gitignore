@@ -4,6 +4,7 @@ secret.log
 # config.json # config.json을 깃허브에 올리지 않도록 무시
 
 # # 디렉터리 지정
+test/
 # assets/ # assets 디렉터리 하위 모든 정보를 무시
 # src/ # src 디렉터리 하위 모든 정보를 무시
 
