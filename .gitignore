@@ -12,12 +12,15 @@
 # src/ # src 디렉터리 하위 모든 정보를 무시
 
 # 와일드카드 사용
-*.log
+# *.log
 
 # 모든 log 파일 무시
+.log 
 
 # # 특정 패턴 제외
 # - .log
 
 # !important.log # 모든 log 파일을 무시하기 위해 선언했으나 ‘important.log’는 무시하지 않음
 !test1.log
+
+# test/test1.log
